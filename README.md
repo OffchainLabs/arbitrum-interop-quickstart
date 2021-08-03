@@ -17,6 +17,7 @@ yarn install
 #### :white_check_mark: Basics
 
 - 🐹 [Pet Shop DApp]() (L2 only)
+- 🗳 [Election DApp]() (L2 only)
 
 #### :white_check_mark: Moving Stuff around
 
